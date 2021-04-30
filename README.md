@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/lvtetrault/0936d065-933d-4a39-8b15-0f8a4af1794b/bc5ec5c2-1368-44b2-a4fc-1415bb7bd116/_apis/work/boardbadge/3b6dbbc7-a4da-45f9-bed3-477aa020a032)](https://dev.azure.com/lvtetrault/0936d065-933d-4a39-8b15-0f8a4af1794b/_boards/board/t/bc5ec5c2-1368-44b2-a4fc-1415bb7bd116/Microsoft.RequirementCategory)
 # fantasydata-api-node
 [FantasyData](https://fantasydata.com) API client library wrapper for Node. For more information on the FantasyData API check the [Fantasy Data Developer Portal](https://developer.fantasydata.com/?developer-portal). There are no external dependencies for this package aside from [node](https://nodejs.org/).
 
